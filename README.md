@@ -16,7 +16,11 @@ Projects that are done:
 (2) Calculator Program using PYTHON
 
 (3) Making a TO-Do  List Program using PYTHON
-
+        NOTE: For this project, you need to write 3 programs:
+    
+       (i) clitodo.py
+       (ii) dbhelper.py
+       (iii) gui.py
 
 
 Other projects on the way. Stay Tuned...
