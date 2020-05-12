@@ -10,8 +10,11 @@ In this repository, lets begin with simple beginner projects:
     And then go to python IDLE, where you can write or edit python programs.[You can install Visual studio Code to edit or write python      programs too.]
 
 Projects that are done:
+
 (1) Jumbled Game using PYTHON
+
 (2) Calculator Program using PYTHON
+
 (3) Making a TO-Do  List Program using PYTHON
 
 
